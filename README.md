@@ -1,0 +1,1 @@
+The exercise "Fetching Other People's Data" is in a branch
